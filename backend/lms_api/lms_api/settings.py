@@ -151,4 +151,4 @@ EMAIL_USE_TLS = True  # TLS (Transport Layer Security) protocol is enabled
 
 # Your Gmail account credentials
 EMAIL_HOST_USER = 'simonmulu7@gmail.com'  # Your Gmail email address
-EMAIL_HOST_PASSWORD = 'krox essx vtnj zvye'  # Your Gmail password or app-specific password
+EMAIL_HOST_PASSWORD = ''  # Your Gmail password or app-specific password
