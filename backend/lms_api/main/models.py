@@ -312,7 +312,7 @@ class ContactUs(models.Model):
         send_mail(
             "ContactUs message",
             "Name: "+self.full_name+"\nEmail: "+self.email+"\nMessage: "+self.message,
-            "simonmulu7@gmail.com",
+            "your email",
             [self.email],
             fail_silently=False,
             )
